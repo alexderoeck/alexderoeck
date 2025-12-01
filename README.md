@@ -4,7 +4,7 @@
 
 <h3>Professional Goals</h3> <!--PROFESSIONAL GOALS------------------------------------------------------------>
 <hr>
-I am interested in a job in Computing roles.
+Looking to start my career in computing.
 <br><br>
 LinkedIn: <a href="https://uk.linkedin.com/in/alexderoeck-magician">
 <img  alt="Alex's LinkedIn" width="25px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" />
