@@ -4,7 +4,11 @@
 
 <h3>Professional Goals</h3> <!--PROFESSIONAL GOALS------------------------------------------------------------>
 <hr>
-I am interested in a job in Computing roles.
+I am interested in a job in Computing or potentially accountancy.
+<br><br>
+LinkedIn: <a href="https://uk.linkedin.com/in/alexderoeck-magician">
+<img  alt="Alex's LinkedIn" width="25px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" />
+</a>
 <br><br><br>
 
 <h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
@@ -19,7 +23,7 @@ I have 8 GCSEs including a 7 in Maths and Computer Science, and a Level 2 Distin
 
 <h3>Skills</h3> <!--SKILLS---------------------------------------------------------------------------------->
 <hr>
-Speaking + Communication: From being a part-time magician (<a href="https://linktr.ee/alexderoeckmagician">more info</a>), I have and will continue to develop communication skills to entertain people, keeping them engaged in conversations and relaying clear instructions.
+Speaking + Communication: From being a part-time magician, I have and will continue to develop communication skills to entertain people, keeping them engaged in conversations and relaying clear instructions.
 <br><br>
 
 Team Working: From mulitple group projects I have worked on.
@@ -28,13 +32,13 @@ Team Working: From mulitple group projects I have worked on.
 Time Management: From multiple projects and assignments I have been set with deadlines, and worked on.
 <br><br>
 
-Problem Solving: Debugging and testing code, and problems in Maths.
+Problem Solving: Debugging and testing code, and complicated problems in Maths.
 <br><br>
 
 <br>
 <hr>
 
-View my college work repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
+View my repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
 <br><br>
 
 <details>
@@ -42,9 +46,9 @@ View my college work repositories <a href="https://github.com/BHASVIC-AlexDeroec
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Java      |
-|     2| Python    |
-|     3| C         |
+|     1| Python    |
+|     2| C         |
+|     3| Java      |
 
 </details>
 
@@ -61,6 +65,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
