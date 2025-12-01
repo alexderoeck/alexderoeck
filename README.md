@@ -34,7 +34,7 @@ Problem Solving: Debugging and testing code, and problems in Maths.
 <br>
 <hr>
 
-View my repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
+View my college work repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
 <br><br>
 
 <details>
@@ -42,9 +42,9 @@ View my repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repos
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Python    |
-|     2| C         |
-|     3| Java      |
+|     1| Java      |
+|     2| Python    |
+|     3| C         |
 
 </details>
 
