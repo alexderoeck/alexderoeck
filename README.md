@@ -6,9 +6,15 @@
 <hr>
 Looking to start my career in computing.
 <br><br>
-LinkedIn: <a href="https://uk.linkedin.com/in/alexderoeck-magician">
-<img  alt="Alex's LinkedIn" width="25px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" />
+<b>Get In Touch:</b>
+<br>
+LinkedIn: <a href="https://uk.linkedin.com/in/alexderoeck-magician">Alex de Roeck</a>
+<a href="https://uk.linkedin.com/in/alexderoeck-magician">
+<img  alt="Alex's LinkedIn" width="20px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" />
 </a>
+<br>
+Email: <a href="mailto:alexcooperderoeck@gmail.com">alexcooperderoeck@gmail.com</a> ✉️
+
 <br><br><br>
 
 <h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
