@@ -13,7 +13,7 @@ LinkedIn: <a href="https://uk.linkedin.com/in/alexderoeck-magician">
 
 <h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
 <hr>
-I am currently designing + creating a Blackjack game/learner in Java as coursework for my Computer Science A Level.
+I am currently designing + creating a <a href="https://github.com/alexderoeck/Alex-de-Roeck_CS-Coursework_Blackjack">Blackjack game + Learner</a> in Java as coursework for my Computer Science A Level.
 <br><br><br>
 
 <h3>Qualifications</h3> <!--QUALIFICATIONS--------------------------------------------------------------->
@@ -38,7 +38,7 @@ Problem Solving: Debugging and testing code, and complicated problems in Maths.
 <br>
 <hr>
 
-View my repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
+View my college account repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
 <br><br>
 
 <details>
