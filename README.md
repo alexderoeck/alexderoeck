@@ -2,6 +2,7 @@
 <h3 align="center">I am currently studying A level Computer Science and BTEC Computing.</h3>
 <br>
 
+
 <h3>Professional Goals</h3> <!--PROFESSIONAL GOALS------------------------------------------------------------>
 <hr>
 Looking to start my career in computing.
@@ -14,7 +15,8 @@ LinkedIn: <a href="https://uk.linkedin.com/in/alexderoeck-magician">Alex de Roec
 </a>
 <br>
 Email: <a href="mailto:alexcooperderoeck@gmail.com">alexcooperderoeck@gmail.com</a> ✉️
-
+<br><br>
+View my college account repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
 <br><br><br>
 
 <h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
@@ -39,12 +41,6 @@ Time Management: From multiple projects and assignments I have been set with dea
 <br><br>
 
 Problem Solving: Debugging and testing code, and complicated problems in Maths.
-<br><br>
-
-<br>
-<hr>
-
-View my college account repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
 <br><br>
 
 <details>
