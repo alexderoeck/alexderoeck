@@ -16,7 +16,7 @@ LinkedIn: <a href="https://uk.linkedin.com/in/alexderoeck-magician">Alex de Roec
 <br>
 Email: <a href="mailto:alexcooperderoeck@gmail.com">alexcooperderoeck@gmail.com</a> ✉️
 <br><br>
-View my college account repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
+View my college account repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>. Please note some repositories may not be visible as they are private due to being under my college's repositories.
 <br><br><br>
 
 <h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
