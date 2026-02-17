@@ -21,7 +21,7 @@ View my college account <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=re
 
 <h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
 <hr>
-I am currently designing + creating a <a href="https://github.com/alexderoeck/Alex-de-Roeck_CS-Coursework_Blackjack">Blackjack game + Learner</a> in Java as coursework for my Computer Science A Level.
+I have recently finished designing + creating a <a href="https://github.com/alexderoeck/Alex-de-Roeck_CS-Coursework_Blackjack">Blackjack game + Learner</a> in Java as coursework for my Computer Science A Level.
 <br><br><br>
 
 <h3>Qualifications</h3> <!--QUALIFICATIONS--------------------------------------------------------------->
