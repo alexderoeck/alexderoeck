@@ -21,7 +21,11 @@ View my college account <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=re
 
 <h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
 <hr>
-I have recently finished designing & creating a <a href="https://github.com/alexderoeck/Alex-de-Roeck_CS-Coursework_Blackjack">Blackjack game + Learner</a> in Java as coursework for my Computer Science A Level.
+I have recently finished designing & creating:
+<br>
+<a href="https://github.com/alexderoeck/No-Name-Productivity---Mobile-App">No Name Productivity</a>, a mobile app designed to support students with their study skills & independence, created in Thunkable.
+<br>
+<a href="https://github.com/alexderoeck/Alex-de-Roeck_CS-Coursework_Blackjack">Blackjack game + Learner</a>, a program that allows users to play and learn Blackjack without encouraging gambling, created in Java (Greenfoot).
 <br><br><br>
 
 <h3>Qualifications</h3> <!--QUALIFICATIONS--------------------------------------------------------------->
@@ -48,9 +52,9 @@ Problem Solving: Debugging and testing code, and complicated problems in Maths.
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Python    |
-|     2| C         |
-|     3| Java      |
+|     1| Java      |
+|     2| Python    |
+|     3| C         |
 
 </details>
 
