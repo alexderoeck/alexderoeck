@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Alex de Roeck!</h1>
-<h3 align="center">I am currently studying A level Computer Science and BTEC Computing.</h3>
+<h3 align="center">I am currently awaiting my A level Computer Science and BTEC Computing results.</h3>
 <br>
 
 
 <h3>Professional Goals</h3> <!--PROFESSIONAL GOALS------------------------------------------------------------>
 <hr>
-Looking to start my career in computing.
+Looking to start my career in computing. I am interested in IT roles & opportunities.
 <br><br>
 <b>Get In Touch:</b>
 <br>
