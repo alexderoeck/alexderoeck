@@ -19,7 +19,7 @@ Email: <a href="mailto:alexcooperderoeck@gmail.com">alexcooperderoeck@gmail.com<
 View my college account <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>. Please note some repositories may not be visible as they are private due to being under my college's repositories.
 <br><br><br>
 
-<h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
+<h3>Recent Projects</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
 <hr>
 I have recently finished designing & creating:
 <br>
