@@ -1,6 +1,22 @@
-<h1 align="center">Hello, I'm Alex de Roeck!</h1>
-<h3 align="center">I am currently awaiting my A level Computer Science and BTEC Computing results.</h3>
+<h1 align="center">Alex de Roeck!</h1>
+<h3 align="center">- Interested in IT Roles & Opportunities -
+<br>- Awaiting A level Computer Science, Maths, and L3 BTEC Computing results (August 2026) -</h3>
 <br>
+
+
+<h3>Projects</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
+<hr>
+I have recently finished designing & developing:
+<br><br>
+<ul>
+  <li><a href="https://github.com/alexderoeck/No-Name-Productivity---Mobile-App">No Name Productivity</a>, a mobile app designed to support students with their study skills & independence, created in Thunkable.</li>
+  <li><a href="https://github.com/alexderoeck/Alex-de-Roeck_CS-Coursework_Blackjack">Blackjack game + Learner</a>, a program that allows users to play and learn Blackjack without encouraging gambling, created in Object-Oriented Java (Greenfoot).</li>
+</ul>
+<i>For more information and documentation, please see individual repositories.</i>
+</ul>
+<br><br><br>
+I have also designed, developed, and manage my own website via WordPress for my business as a self-employed magician: <a href="https://alexderoeckmagician.com">Alex de Roeck Magician - Website</a>.
+<br><br>
 
 
 <h3>Professional Goals</h3> <!--PROFESSIONAL GOALS------------------------------------------------------------>
@@ -16,39 +32,26 @@ LinkedIn: <a href="https://uk.linkedin.com/in/alexderoeck-magician">Alex de Roec
 <br>
 Email: <a href="mailto:alexcooperderoeck@gmail.com">alexcooperderoeck@gmail.com</a> ✉️
 <br><br>
-View my college account <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>. Please note some repositories may not be visible as they are private due to being under my college's repositories.
-<br><br><br>
+View my old college GitHub account <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>. Please note some repositories may not be visible as they are private due to being under my college's repositories.
+<br><br>
 
-<h3>Recent Projects</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
-<hr>
-I have recently finished designing & creating:
-<br>
-<a href="https://github.com/alexderoeck/No-Name-Productivity---Mobile-App">No Name Productivity</a>, a mobile app designed to support students with their study skills & independence, created in Thunkable.
-<br>
-<a href="https://github.com/alexderoeck/Alex-de-Roeck_CS-Coursework_Blackjack">Blackjack game + Learner</a>, a program that allows users to play and learn Blackjack without encouraging gambling, created in Java (Greenfoot).
-<br><br><br>
-
-<h3>Qualifications</h3> <!--QUALIFICATIONS--------------------------------------------------------------->
-<hr>
-I have 8 GCSEs including a 7 in Maths and Computer Science, and a Level 2 Distinction in Creative iMedia BTEC.
-<br><br><br>
 
 <h3>Skills</h3> <!--SKILLS---------------------------------------------------------------------------------->
 <hr>
-Speaking + Communication: From being a part-time magician, I have and will continue to develop communication skills to entertain people, keeping them engaged in conversations and relaying clear instructions.
-<br><br>
-
-Team Working: From mulitple group projects I have worked on.
-<br><br>
-
-Time Management: From multiple projects and assignments I have been set with deadlines, and worked on.
-<br><br>
-
-Problem Solving: Debugging and testing code, and complicated problems in Maths.
-<br><br>
+<ul>
+  <li><b>Programming & OOP Fundamentals:</b> Java (Object-Oriented Programming), Python, and C, across procedural, object-oriented, and event-driven paradigms. Designed and developed a Blackjack game in Java (OOP) and a student study app in Thunkable.</li>
+  <li><b>Databases & SQL:</b> Studied relational database concepts (SQL, tables, queries, normalisation) as part of A Level Computer Science, with academic experience using SQLite and DB Browser for SQLite.</li>
+  <li><b>Web Development Foundations:</b> Academic knowledge of HTML, CSS and JavaScript. Built and independently manage a live WordPress website, including brand identity, content, and social media integration, for my self-employed business.</li>
+  <li><b>Git & Collaborative Development:</b> Familiarity with Git, including push and pull workflows within shared repositories, gained through a group coding project and while learning C at college.</li>
+  <li><b>Attention to Detail & Documentation:</b> Used a project management tool (Trello) and GitHub to document design, development, and code processes and ensure deadlines were met for several projects.</li>
+  <li><b>Problem Solving & Testing:</b> Independently tested and evaluated bespoke software tools during a placement at Naked Energy, investigating issues, identifying root causes, and presenting findings to the software team. Tested own code and programs in personal projects.</li>
+  <li><b>AI-Assisted Development:</b> Practical experience using AI tools (ChatGPT, Gemini, Claude) to support coding, revision, and creative work, including using them to explore recreating existing apps.</li>
+  <li><b>Communication & Collaboration:</b> Proven ability to quickly build rapport, demonstrated as a self-employed magician and product demonstrator at Hamleys. Experienced collaborative development within a group coding project at college and collaborated with a software team on a work placement, and with volunteers at a community hub.</li>
+</ul>
+<br>
 
 <details>
-<summary>My Top Coding Languages</summary>
+<summary><b>My Top Coding Languages</b></summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -57,6 +60,28 @@ Problem Solving: Debugging and testing code, and complicated problems in Maths.
 |     3| C         |
 
 </details>
+
+<details>
+<summary><b>My Top Programming Paradigms</b></summary>
+
+| Rank | Paradigms       |
+|-----:|-----------------|
+|     1| Procedural      |
+|     2| Object-Oriented |
+|     3| Event-Driven    |
+
+</details>
+<br>
+
+
+<h3>Qualifications</h3> <!--QUALIFICATIONS--------------------------------------------------------------->
+<hr>
+<ul>
+  <li>I have 8 GCSEs including a 7 in Maths and Computer Science, and a Level 2 Distinction in Creative iMedia BTEC.</li>
+  <li>Awaiting A level Computer Science, Maths, and L3 BTEC Computing results (August 2026)</li>
+</ul>
+<br>
+
 
 
 
