@@ -4,19 +4,29 @@
 <br>
 
 
-<h3>Projects</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
+<h3>Projects</h3>
 <hr>
-I have recently finished designing & developing:
-<br><br>
+<p>I have recently finished designing &amp; developing:</p>
 <ul>
-  <li><a href="https://github.com/alexderoeck/No-Name-Productivity---Mobile-App">No Name Productivity</a>, a mobile app designed to support students with their study skills & independence, created in Thunkable.</li>
-  <li><a href="https://github.com/alexderoeck/Alex-de-Roeck_CS-Coursework_Blackjack">Blackjack game + Learner</a>, a program that allows users to play and learn Blackjack without encouraging gambling, created in Object-Oriented Java (Greenfoot).</li>
+  <li>
+    <a href="https://github.com/alexderoeck/No-Name-Productivity---Alex-de-Roeck">No Name Productivity</a>,
+    a Pomodoro-style study timer app built in Thunkable to support students with their study skills &amp; independence,
+    using gamification (streaks, highscores) to keep users engaged.
+    <a href="https://x.thunkable.com/projectPage/69b9b8e93b41191d069e1c39">Try it here</a>.
+  </li>
+  <li>
+    <a href="https://github.com/alexderoeck/No-Name-Blackjack-Game---Alex-de-Roeck">Blackjack Game + Learner</a>,
+    an object-oriented Blackjack game built in Java (Greenfoot) that lets users play and practise strategy
+    against a computer dealer, without gambling real money.
+  </li>
 </ul>
-<i>For more information and documentation, please see individual repositories.</i>
-</ul>
-<br><br><br>
-I have also designed, developed, and manage my own website via WordPress for my business as a self-employed magician: <a href="https://alexderoeckmagician.com">Alex de Roeck Magician - Website</a>.
-<br><br>
+<p><em>For more information and documentation, please see individual repositories.</em></p>
+<p>
+  I have also designed, developed, and manage my own website via WordPress for my business as a
+  self-employed magician:
+  <a href="https://alexderoeckmagician.com">Alex de Roeck Magician - Website</a>.
+</p>
+<br>
 
 
 <h3>Professional Goals</h3> <!--PROFESSIONAL GOALS------------------------------------------------------------>
